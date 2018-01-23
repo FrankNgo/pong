@@ -1,0 +1,25 @@
+body {
+  background: #121212;
+}
+
+#court {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  border: 2px solid #fafafa;
+}
+
+#paddle1 {
+  position: absolute;
+  background: #fafafa;
+}
+
+#paddle2 {
+  position: absolute;
+  background: #fafafa;
+}
+
+#ball {
+  position: absolute;
+  background: #fafafa;
+}
